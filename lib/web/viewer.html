@@ -460,7 +460,8 @@ See https://github.com/adobe-type-tools/cmap-resources
       $(this).html("开始盖章");
     } else if (flag == true) {
       $("#viewerContainer").css("cursor", "url('/pdf-seal/lib/web/images/cursor.ico'),crosshair");
-      imageUrl = prompt("请输入印章的网络地址:","");
+      imageUrl = getCookie("stamperUrl");
+      //imageUrl = prompt("请输入印章的网络地址:","");
       $(this).html("取消盖章");
     }
   });
@@ -541,7 +542,18 @@ See https://github.com/adobe-type-tools/cmap-resources
       });
     });
     //########################################
-  })
+  });
+  function getCookie(name) {
+    var name = name + "=";
+    var arr = document.cookie.split(";");
+    for (var i = 0; i < arr.length; ++i) {
+      var tmp = $.trim(arr);
+      if (tmp.indexOf(name) == 0) {
+        return tmp.substring(name.length, tmp.length);
+      }
+      return "";
+    }
+  }
 </script>
 <!-- =================================================-->
 
