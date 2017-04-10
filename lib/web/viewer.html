@@ -458,7 +458,7 @@ See https://github.com/adobe-type-tools/cmap-resources
       $("#viewerContainer").css("cursor", "default");
       $(this).html("开始盖章");
     } else if (flag == true) {
-      $("#viewerContainer").css("cursor", "url('/seal/web/images/cursor.ico'),crosshair");
+      $("#viewerContainer").css("cursor", "url('/pdf-seal/lib/web/images/cursor.ico'),crosshair");
       $(this).html("取消盖章");
     }
   });
@@ -528,15 +528,16 @@ See https://github.com/adobe-type-tools/cmap-resources
     });
     var sendMsg = JSON.stringify(data);
 
-    //#########服务器处理提交参数URL############
-    var url = "#";
-    //########################################
-
-    var args = {msg: sendMsg, time: new Date()};
-    $.post(url, args, function(data) {
-      alert("数据已提交服务器! 提交字符串为:" + sendMsg);
-      location.reload();
+    //#########向服务器发送数据############
+    $.getJSON("../../config.json", function(data) {
+      var url = data.sealCommitUrl;
+      var args = {msg: sendMsg, time: new Date()};
+      $.post(url, args, function(data) {
+        alert("数据已提交服务器! 提交字符串为:" + sendMsg);
+        location.reload();
+      });
     });
+    //########################################
   })
 </script>
 <!-- =================================================-->

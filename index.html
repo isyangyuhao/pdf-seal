@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>PDF List</title>
+
+    <!--引入pdf-seal.js核心文件-->
+    <script src="lib/pdf-seal.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <h1>PDF文件列表</h1>
+        <br>
+        <ul class="list-group">
+            <li class="list-group-item">
+                <span>q.pdf</span>
+                <button onclick="viewPDF('lib/web/viewer.html?file=../../pdf/q.pdf')" type="button" class="btn btn-primary btn-xs right-block badge">
+                    <i class="glyphicon glyphicon-eye-open"></i>
+                </button>
+            </li>
+            <li class="list-group-item">
+                <span>Servlet.pdf</span>
+                <button onclick="viewPDF('lib/web/viewer.html?file=../../pdf/Servlet.pdf')" type="button" class="btn btn-primary btn-xs right-block badge">
+                    <i class="glyphicon glyphicon-eye-open"></i>
+                </button>
+            </li>
+            <li class="list-group-item">
+                <span>JSP.pdf</span>
+                <button onclick="viewPDF('lib/web/viewer.html?file=../../pdf/JSP.pdf')" type="button" class="btn btn-primary btn-xs right-block badge">
+                    <i class="glyphicon glyphicon-eye-open"></i>
+                </button>
+            </li>
+            <li class="list-group-item">
+                <div class="row">
+                    <div class="col-lg-12"><strong>通过网络获取PDF:</strong></div>
+                    <div class="col-lg-12">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="请输入网络地址" id="pdfAddress">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-default" type="button" id="pdfAddressSubmit">submit</button>
+                                </span>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+</body>
+</html>
