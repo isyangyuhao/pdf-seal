@@ -451,6 +451,7 @@ See https://github.com/adobe-type-tools/cmap-resources
 <!-- ====================盖章操作======================-->
 <script type="text/javascript">
   var flag = false;
+  var imageUrl = "";
   //盖章按钮
   $("#stamperBtn").on("click", function() {
     flag = !flag;
@@ -459,13 +460,15 @@ See https://github.com/adobe-type-tools/cmap-resources
       $(this).html("开始盖章");
     } else if (flag == true) {
       $("#viewerContainer").css("cursor", "url('/pdf-seal/lib/web/images/cursor.ico'),crosshair");
+      imageUrl = prompt("请输入印章的网络地址:","");
       $(this).html("取消盖章");
     }
   });
   //盖章方法
+  //var imageUrl = "../stamper/stamper.png";
   function onStamper($obj, f) {
     $($obj).stamper({
-      image : "../stamper/stamper.png",
+      image : imageUrl,
       //回调函数
       complete: function() {
         f();

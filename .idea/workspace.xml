@@ -2,395 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b26c7c5a-c5f8-493a-a62f-563c5faa210b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/pdf-seal.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/pdf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/pdf.worker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/demos/demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/demos/images/stamper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/demos/libs/jquery-1.10.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/demos/libs/jquery.stamper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper-master/src/jquery.stamper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/jquery.stamper.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/stamper/stamper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78ms-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/78ms-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/83pv-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90ms-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90ms-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90msp-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90msp-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90pv-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/90pv-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Add-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Add-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Add-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Add-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-0.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-1.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-3.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-4.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-5.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-6.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-CNS1-UCS2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-0.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-1.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-3.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-4.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-5.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-GB1-UCS2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-0.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-1.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-3.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-4.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-5.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-6.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Japan1-UCS2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Korea1-0.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Korea1-1.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Korea1-2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Adobe-Korea1-UCS2.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/B5pc-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/B5pc-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS1-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS1-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS2-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/CNS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETHK-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETHK-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETen-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETen-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETenms-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/ETenms-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Ext-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Ext-RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Ext-RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Ext-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GB-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GB-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GB-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GB-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBK-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBK-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBK2K-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBK2K-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBKp-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBKp-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBT-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBT-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBT-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBT-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBTpc-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBTpc-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBpc-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/GBpc-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKdla-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKdla-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKdlb-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKdlb-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKgccs-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKgccs-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKm314-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKm314-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKm471-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKm471-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKscs-B5-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/HKscs-B5-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Hankaku.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Hiragana.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-Johab-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-Johab-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCms-UHC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCms-UHC-HW-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCms-UHC-HW-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCms-UHC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCpc-EUC-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/KSCpc-EUC-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Katakana.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/NWP-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/NWP-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/RKSJ-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/RKSJ-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/Roman.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UCS2-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UCS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF16-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF16-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF8-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniCNS-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UCS2-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UCS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF16-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF16-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF8-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniGB-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UCS2-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UCS2-HW-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UCS2-HW-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UCS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF16-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF16-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF8-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF16-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF16-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF8-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJIS2004-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISPro-UCS2-HW-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISPro-UCS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISPro-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISX0213-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISX0213-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISX02132004-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniJISX02132004-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UCS2-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UCS2-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF16-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF16-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF32-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF32-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF8-H.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/UniKS-UTF8-V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/V.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/cmaps/WP-Symbol.bcmap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/compatibility.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/compressed.tracemonkey-pldi-09.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/debugger.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-check.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-comment.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-help.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-insert.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-key.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-newparagraph.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-noicon.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-note.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/annotation-paragraph.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/btnIcon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/cur.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/cursor.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-next-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-next-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-next@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-previous-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-previous-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-previous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/findbarButton-previous@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/grab.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/grabbing.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/loading-icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/loading-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/loading-small@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/readmeImg/list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/readmeImg/pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/readmeImg/stamper.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/readmeImg/submit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-documentProperties.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-documentProperties@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-firstPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-firstPage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-handTool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-handTool@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-lastPage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-lastPage@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-rotateCcw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-rotateCcw@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-rotateCw.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/secondaryToolbarButton-rotateCw@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/texture.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-bookmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-bookmark@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-download@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-menuArrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-menuArrows@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-openFile.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-openFile@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageDown-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageDown-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageDown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageDown@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageUp-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageUp-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageUp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-pageUp@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-presentationMode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-presentationMode@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-print@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-search@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-secondaryToolbarToggle-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-secondaryToolbarToggle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-secondaryToolbarToggle@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-sidebarToggle-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-sidebarToggle-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-sidebarToggle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-sidebarToggle@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewAttachments.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewAttachments@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewOutline-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewOutline-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewOutline.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewOutline@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewThumbnail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-viewThumbnail@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-zoomIn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-zoomIn@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-zoomOut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/toolbarButton-zoomOut@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-collapsed-rtl.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-collapsed-rtl@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-collapsed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-collapsed@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-expanded.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/images/treeitem-expanded@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/l10n.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ach/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/af/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ak/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/an/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ar/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/as/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ast/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/az/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/be/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/bg/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/bn-BD/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/bn-IN/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/br/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/bs/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ca/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/cs/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/csb/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/cy/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/da/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/de/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/el/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/en-GB/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/en-US/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/en-ZA/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/eo/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/es-AR/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/es-CL/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/es-ES/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/es-MX/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/et/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/eu/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/fa/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ff/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/fi/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/fr/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/fy-NL/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ga-IE/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/gd/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/gl/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/gu-IN/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/he/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/hi-IN/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/hr/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/hu/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/hy-AM/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/id/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/is/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/it/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ja/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ka/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/kk/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/km/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/kn/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ko/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ku/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/lg/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/lij/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/locale.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/lt/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/lv/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/mai/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/mk/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ml/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/mn/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/mr/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ms/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/my/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/nb-NO/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/nl/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/nn-NO/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/nso/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/oc/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/or/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/pa-IN/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/pl/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/pt-BR/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/pt-PT/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/rm/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ro/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ru/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/rw/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sah/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/si/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sk/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sl/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/son/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sq/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sr/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sv-SE/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/sw/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ta-LK/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ta/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/te/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/th/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/tl/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/tn/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/tr/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/uk/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/ur/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/vi/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/wo/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/xh/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/zh-CN/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/zh-TW/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/locale/zu/viewer.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/viewer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/viewer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web/viewer.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/web/viewer.html" afterPath="$PROJECT_DIR$/lib/web/viewer.html" />
     </list>
     <ignored path="pdf-seal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -410,18 +23,7 @@
     <favorites_list name="pdf-seal" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9008547">
-              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -438,8 +40,9 @@
       <list>
         <option value="$PROJECT_DIR$/lib/pdf-seal.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/lib/web/viewer.html" />
         <option value="$PROJECT_DIR$/config.json" />
+        <option value="$PROJECT_DIR$/lib/web/viewer.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -552,9 +155,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="729" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -588,10 +191,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/lib/jquery.stamper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33387887">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/pdf-seal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3617021">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.22258593">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
           <folding>
             <marker date="1491797876000" expanded="true" signature="514:896" placeholder="..." />
             <marker date="1491797876000" expanded="true" signature="514:903" placeholder="..." />
@@ -611,22 +232,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/lib/jquery.stamper.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33387887">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/web/viewer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.62905985">
-          <caret line="535" column="37" selection-start-line="535" selection-start-column="37" selection-end-line="535" selection-end-column="37" />
+        <state vertical-scroll-proportion="0.10598291">
+          <caret line="449" column="9" selection-start-line="449" selection-start-column="9" selection-end-line="449" selection-end-column="9" />
           <folding>
-            <marker date="1491800677000" expanded="true" signature="22368:22385" placeholder="..." />
+            <marker date="1491832803000" expanded="true" signature="22461:22478" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -634,8 +245,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor vertical-scroll-proportion="0.12230216">
-            <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <first_editor vertical-scroll-proportion="0.57194245">
+            <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -645,18 +256,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="23" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9008547">
-          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.17435898">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
           <folding />
         </state>
       </provider>
