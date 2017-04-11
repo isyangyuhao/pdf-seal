@@ -5,7 +5,7 @@
     <title>PDF List</title>
 
     <!--引入pdf-seal.js核心文件-->
-    <script src="lib/pdf-seal.js"></script>
+    <script src="sealLib/pdf-seal.js"></script>
 
 </head>
 <body>
@@ -15,37 +15,23 @@
         <ul class="list-group">
             <li class="list-group-item">
                 <span>q.pdf</span>
-                <button onclick="viewPDF('/pdf-seal/pdf/q.pdf', '../stamper/stamper.png')" type="button" class="btn btn-primary btn-xs right-block badge">
+                <button onclick="viewPDF('../../pdf/q.pdf', '../stamper/stamper.png')" type="button" class="btn btn-primary btn-xs right-block badge">
                     <i class="glyphicon glyphicon-eye-open"></i>
                 </button>
             </li>
             <li class="list-group-item">
                 <span>Servlet.pdf</span>
-                <button onclick="viewPDF('/pdf-seal/pdf/Servlet.pdf', 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491847482392&di=fc9df6c17bc666b13dbc0b1c7a4a632c&imgtype=0&src=http%3A%2F%2Fwww.healthoo.com%2FD1%2FUploadFiles_3910%2F201101%2F2011011809474166.bmp')" type="button" class="btn btn-primary btn-xs right-block badge">
+                <button onclick="viewPDF('../../pdf/Servlet.pdf', 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1491847482392&di=fc9df6c17bc666b13dbc0b1c7a4a632c&imgtype=0&src=http%3A%2F%2Fwww.healthoo.com%2FD1%2FUploadFiles_3910%2F201101%2F2011011809474166.bmp')" type="button" class="btn btn-primary btn-xs right-block badge">
                     <i class="glyphicon glyphicon-eye-open"></i>
                 </button>
             </li>
             <li class="list-group-item">
                 <span>JSP.pdf</span>
-                <button onclick="viewPDF('/pdf-seal/pdf/JSP.pdf', 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1492442244&di=aeec04d7baf91d8fd73712c83051ae32&imgtype=jpg&er=1&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20110227%2F20110227173548-292466815.jpg')" type="button" class="btn btn-primary btn-xs right-block badge">
+                <button onclick="viewPDF('../../pdf/JSP.pdf', 'https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1492442244&di=aeec04d7baf91d8fd73712c83051ae32&imgtype=jpg&er=1&src=http%3A%2F%2Fpic.baike.soso.com%2Fp%2F20110227%2F20110227173548-292466815.jpg')" type="button" class="btn btn-primary btn-xs right-block badge">
                     <i class="glyphicon glyphicon-eye-open"></i>
                 </button>
             </li>
-            <li class="list-group-item">
-                <div class="row">
-                    <div class="col-lg-12"><strong>通过网络获取PDF:</strong></div>
-                    <div class="col-lg-12">
-                        <div class="input-group">
-                            <input type="text" class="form-control" placeholder="请输入网络地址" id="pdfAddress">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-default" type="button" id="pdfAddressSubmit">submit</button>
-                                </span>
-                        </div>
-                    </div>
-                </div>
-            </li>
         </ul>
     </div>
-
 </body>
 </html>
