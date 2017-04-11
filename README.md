@@ -62,7 +62,7 @@ __在线加载PDF文档,并实现盖章效果,提交后可向服务器返回相�
     ![提交数据][4]
 
 
-[1]:lib/web/images/readmeImg/list.png
-[2]:lib/web/images/readmeImg/pdf.png
-[3]:lib/web/images/readmeImg/stamper.png
-[4]:lib/web/images/readmeImg/submit.png
+[1]:sealLib/web/images/readmeImg/list.png
+[2]:sealLib/web/images/readmeImg/pdf.png
+[3]:sealLib/web/images/readmeImg/stamper.png
+[4]:sealLib/web/images/readmeImg/submit.png
